@@ -1,4 +1,4 @@
-//全排列//
+//全排列
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
